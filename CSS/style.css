@@ -5,4 +5,5 @@ body{background-color:gray;}
 h2 {color:darkblue; font-size:20px;}
 
 p {color:darkblue; font-size: 18px;}
-img {float:right;}
+img {float:right; margin-bottom:20px; margin-right:20px;
+	 margin-left:20px; margin-top:20px;}
