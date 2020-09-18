@@ -1,8 +1,8 @@
-h1 {color:blue; font-size:20px;}
+h1 {color:darkblue; font-size:22px;}
 
-body{background-color:lightgray;}
+body{background-color:gray;}
 
-h2 {color:blue;}
+h2 {color:darkblue; font-size:20px;}
 
-p {color:blue; font-size: 17px;}
+p {color:darkblue; font-size: 18px;}
 img {float:right;}
