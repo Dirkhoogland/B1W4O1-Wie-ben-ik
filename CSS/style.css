@@ -1,9 +1,9 @@
-h1 {color:darkblue; font-size:22px;}
+h1 { font-size:22px;}
 
-body{background-color:gray;}
+body{background-color:gray; color:darkblue; margin-bottom:20px;}
 
-h2 {color:darkblue; font-size:20px;}
-
-p {color:darkblue; font-size: 18px;}
+h2 { font-size:20px;}
+a {padding:30px;}
+p {font-size: 18px;}
 img {float:right; margin-bottom:20px; margin-right:20px;
 	 margin-left:20px; margin-top:20px;}
